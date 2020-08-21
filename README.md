@@ -1,2 +1,2 @@
-# lauch_base_rocketseat
+# launch_base_rocketseat
 Modelo de portfólio 
